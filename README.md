@@ -30,7 +30,7 @@
 
 <tr height="10%">
 
-<td colspan="3">LOGO HERE <a href="https://janubis.github.io/lab2">This is link</a>
+<td colspan="3">LOGO <a href="https://janubis.github.io/lab2">This is link</a>
 
 <a href="about.html">About me</a></td>
 
@@ -43,7 +43,8 @@
 
 <td><h1>Welcome to my Internet Tech Fund lab 2</h1>
 
-<img src="dorjoo.jpeg" width="300px"/>
+<img src="![Screenshot 2025-02-11 171340](https://github.com/user-attachments/assets/bc0c5c84-6ebd-47f1-8dd8-61c41cc86d67)
+" width="300px"/>
 
 
 <p> Сайн байна уу? Одгэрэлийн вэб хуудсанд тавтай морил.  </p></td>
