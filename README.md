@@ -107,7 +107,7 @@
 <img src="dorjoo.jpeg" width="300px"/>
 
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+<p>Сайн уу? Намайг Одгэрэл гэдэг. би одоо 22той МУИС-ын оюутан</p></td>
 
 <td width="20%">2.3</td>
 
@@ -126,3 +126,31 @@
 </body>
 
 </html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About - My Website</title>
+</head>
+<body>
+  <header>
+    <h1>About Us</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h2>About Page Content</h2>
+    <p>This page tells you more about my website and mission.</p>
+  </main>
+</body>
+</html>
+
