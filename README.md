@@ -39,7 +39,7 @@
 
 <tr>
 
-<td rowspan="2" width="20%">2.1</td>
+<td rowspan="2" width="20%">статус</td>
 
 <td><h1>Welcome to my Internet Tech Fund lab 2</h1>
 
@@ -49,7 +49,7 @@
 
 <p> Сайн байна уу? Одгэрэлийн вэб хуудсанд тавтай морил.  </p></td>
 
-<td width="20%">2.3</td>
+<td width="20%">хобби</td>
 
 </tr>
 
